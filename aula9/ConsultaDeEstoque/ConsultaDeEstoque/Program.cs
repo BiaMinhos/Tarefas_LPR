@@ -10,15 +10,19 @@ namespace ConsultaDeEstoque
     {
        struct Produto
         {
-            string Nome;
-            int Codigo;
-            double Preco;
-            int Quantidade;
+           public string Nome;
+            public int Codigo;
+            public double Preco;
+            public int Quantidade;
         }
+        string n1, n2, n3;
+        int c1, c2, c3;
+        float p1, p2, p3;
+        int q1, q2, q3;
         static void Main(string[] args)
         {
             Produto[] loja = new Produto[3];
-            loja[0]= new Produto { Nome=}
+            loja[0] = new Produto { Nome = n1, Codigo = c1, Preco = p1, Quantidade = q1 };
         }
     }
 }

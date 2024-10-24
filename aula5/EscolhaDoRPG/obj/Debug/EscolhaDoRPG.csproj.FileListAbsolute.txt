@@ -1,0 +1,7 @@
+C:\Users\Alunos\source\repos\EscolhaDoRPG\EscolhaDoRPG\bin\Debug\EscolhaDoRPG.exe.config
+C:\Users\Alunos\source\repos\EscolhaDoRPG\EscolhaDoRPG\bin\Debug\EscolhaDoRPG.exe
+C:\Users\Alunos\source\repos\EscolhaDoRPG\EscolhaDoRPG\bin\Debug\EscolhaDoRPG.pdb
+C:\Users\Alunos\source\repos\EscolhaDoRPG\EscolhaDoRPG\obj\Debug\EscolhaDoRPG.csproj.AssemblyReference.cache
+C:\Users\Alunos\source\repos\EscolhaDoRPG\EscolhaDoRPG\obj\Debug\EscolhaDoRPG.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\EscolhaDoRPG\EscolhaDoRPG\obj\Debug\EscolhaDoRPG.exe
+C:\Users\Alunos\source\repos\EscolhaDoRPG\EscolhaDoRPG\obj\Debug\EscolhaDoRPG.pdb
